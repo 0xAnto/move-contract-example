@@ -7,4 +7,4 @@ rev = 'conversions'
 subdir = 'aptos-move/framework/aptos-framework'
 
 [addresses]
-sender = "0x88"
+profile = "0x82b94c0423cf25f6a58589f992390ec917eec0945198d9031c10cd79cedb6699"
